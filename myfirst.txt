@@ -1,5 +1,7 @@
 testing
 
-i am working on feature 1, keeping development
+Developer1: i am working on feature 1, keeping development
 
-i fixed a issue
+Developer1: i fixed a issue for feature 1
+
+Developer1: code review passed for feature 1

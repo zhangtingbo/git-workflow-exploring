@@ -9,3 +9,5 @@ Developer1: code review passed for feature 1
 QA fail and rework
 
 Developer1: fix bug
+
+Developer1: code review passed for feature1/bug1, put to Ready for QA, tagging with v1.1.1

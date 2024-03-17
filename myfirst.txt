@@ -7,3 +7,5 @@ Developer2: didn't pass code review, changed some code to make code clean
 Developer2: I am still working on feature 2, to refactor my code
 
 Developer2: Done, passed code review, put to Ready for QA
+
+Developer2: No passed, QA put it to rework, for Bug2

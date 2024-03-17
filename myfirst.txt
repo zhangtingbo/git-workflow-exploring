@@ -1,5 +1,7 @@
 testing
 
-i am doing development for feature 2
+Developer2: i am doing development for feature 2
 
-didn't pass code review, changed some code to make code clean
+Developer2: didn't pass code review, changed some code to make code clean
+
+Developer2: I am still working on feature 2, to refactor my code

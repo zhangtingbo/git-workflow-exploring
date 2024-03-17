@@ -5,3 +5,10 @@ Developer1: i am working on feature 1, keeping development
 Developer1: i fixed a issue for feature 1
 
 Developer1: code review passed for feature 1
+Developer2: i am doing development for feature 2
+
+Developer2: didn't pass code review, changed some code to make code clean
+
+Developer2: I am still working on feature 2, to refactor my code
+
+Developer2: Done, passed code review, put to Ready for QA

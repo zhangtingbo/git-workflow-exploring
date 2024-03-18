@@ -21,3 +21,7 @@ Developer1: fix bug
 Developer1: code review passed for feature1/bug1, put to Ready for QA, tagging with v1.1.1
 
 Developer2: No passed, QA put it to rework, for Bug2
+
+Developer3: I am starting to develop feature3 on feature3 branch
+
+Developer3: I am continue developing feature3 on feature3 branch

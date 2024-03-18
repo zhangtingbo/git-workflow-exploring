@@ -14,3 +14,5 @@ Developer2: I am still working on feature 2, to refactor my code
 Developer2: Done, passed code review, put to Ready for QA
 
 Developer3: I am starting to develop feature3 on feature3 branch
+
+Developer3: I am continue developing feature3 on feature3 branch
